@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nath-react-quoteapp/static/css/main.073c9b0a.css",
+    "main.js": "/nath-react-quoteapp/static/js/main.c7de8337.js",
+    "static/js/787.1bead3ac.chunk.js": "/nath-react-quoteapp/static/js/787.1bead3ac.chunk.js",
+    "static/media/logo.svg": "/nath-react-quoteapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nath-react-quoteapp/index.html",
+    "main.073c9b0a.css.map": "/nath-react-quoteapp/static/css/main.073c9b0a.css.map",
+    "main.c7de8337.js.map": "/nath-react-quoteapp/static/js/main.c7de8337.js.map",
+    "787.1bead3ac.chunk.js.map": "/nath-react-quoteapp/static/js/787.1bead3ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c7de8337.js"
+  ]
+}
