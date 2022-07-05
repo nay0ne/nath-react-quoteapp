@@ -20,7 +20,7 @@ function App() {
     quoteAuth = "Anon";
   } else {
     quoteAuth = quotes.author;
-  }
+  };
 
   useEffect(() => {
     getQuote();
