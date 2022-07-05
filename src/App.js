@@ -15,6 +15,13 @@ function App() {
     });
   };
 
+  let quoteAuth;
+  if (quotes.author === null) {
+    quoteAuth = "Anon";
+  } else {
+    quoteAuth = quotes.author;
+  }
+
   useEffect(() => {
     getQuote();
   },[]);
@@ -23,13 +30,11 @@ function App() {
     <div className="App">
       <div className="quote" id="quote-box">
         <p id="text">"{quotes.text}"</p>
-        { (quotes.author === null) ?
-          <p id="author"> - anon</p> :
-          <p id="author">- {quotes.author}</p>}
+        <p id="author">- {quoteAuth}</p>
         <div className="btn-box">
           <button onClick={getQuote} className="btn" id="new-quote">Get Quote</button>
           <a 
-          href={`https://twitter.com/intent/tweet?text=${quotes.text} - ${quotes.author}`} 
+          href={`https://twitter.com/intent/tweet?text=${quotes.text} - ${quoteAuth}`} 
           target="_blank" 
           rel="noopener noreferrer" 
           className="btn" 
