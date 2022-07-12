@@ -32,7 +32,7 @@ function App() {
         <p id="text">"{quotes.text}"</p>
         <p id="author">- {quoteAuth}</p>
         <div className="btn-box">
-          <button onClick={getQuote} className="btn" id="new-quote">Get Quote</button>
+          <button onClick={getQuote} className="btn" id="new-quote">Quote</button>
           <a 
           href={`https://twitter.com/intent/tweet?text=${quotes.text} - ${quoteAuth}`} 
           target="_blank" 
