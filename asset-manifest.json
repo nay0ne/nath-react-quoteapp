@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nath-react-quoteapp/static/css/main.90edb239.css",
-    "main.js": "/nath-react-quoteapp/static/js/main.b0ae2bd5.js",
+    "main.css": "/nath-react-quoteapp/static/css/main.95fc39a2.css",
+    "main.js": "/nath-react-quoteapp/static/js/main.0d4d26b1.js",
     "static/js/787.1bead3ac.chunk.js": "/nath-react-quoteapp/static/js/787.1bead3ac.chunk.js",
     "index.html": "/nath-react-quoteapp/index.html",
-    "main.90edb239.css.map": "/nath-react-quoteapp/static/css/main.90edb239.css.map",
-    "main.b0ae2bd5.js.map": "/nath-react-quoteapp/static/js/main.b0ae2bd5.js.map",
+    "main.95fc39a2.css.map": "/nath-react-quoteapp/static/css/main.95fc39a2.css.map",
+    "main.0d4d26b1.js.map": "/nath-react-quoteapp/static/js/main.0d4d26b1.js.map",
     "787.1bead3ac.chunk.js.map": "/nath-react-quoteapp/static/js/787.1bead3ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90edb239.css",
-    "static/js/main.b0ae2bd5.js"
+    "static/css/main.95fc39a2.css",
+    "static/js/main.0d4d26b1.js"
   ]
 }
