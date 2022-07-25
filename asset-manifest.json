@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nath-react-quoteapp/static/css/main.95fc39a2.css",
-    "main.js": "/nath-react-quoteapp/static/js/main.0d4d26b1.js",
+    "main.js": "/nath-react-quoteapp/static/js/main.da438ddf.js",
     "static/js/787.1bead3ac.chunk.js": "/nath-react-quoteapp/static/js/787.1bead3ac.chunk.js",
     "index.html": "/nath-react-quoteapp/index.html",
     "main.95fc39a2.css.map": "/nath-react-quoteapp/static/css/main.95fc39a2.css.map",
-    "main.0d4d26b1.js.map": "/nath-react-quoteapp/static/js/main.0d4d26b1.js.map",
+    "main.da438ddf.js.map": "/nath-react-quoteapp/static/js/main.da438ddf.js.map",
     "787.1bead3ac.chunk.js.map": "/nath-react-quoteapp/static/js/787.1bead3ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95fc39a2.css",
-    "static/js/main.0d4d26b1.js"
+    "static/js/main.da438ddf.js"
   ]
 }
