@@ -32,13 +32,14 @@ function App() {
         <p id="text">"{quotes.text}"</p>
         <p id="author">- {quoteAuth}</p>
         <div className="btn-box">
-          <button onClick={getQuote} className="btn" id="new-quote">Quote</button>
+          <button onClick={getQuote} className="btn" id="new-quote" aria-label="Get a new quote">Quote</button>
           <a 
           href={`https://twitter.com/intent/tweet?text=${quotes.text} - ${quoteAuth}`} 
           target="_blank" 
           rel="noopener noreferrer" 
           className="btn" 
-          id="tweet-quote">Tweet</a>
+          id="tweet-quote"
+          aria-label="Tweet this quote">Tweet</a>
         </div>
       </div>
     </div>
