@@ -15,8 +15,7 @@ function App() {
     })
     .then((response) => response.json())
     .then(data => {
-      let randomNum = Math.floor(Math.random() * data.length);
-      setQuotes(data[randomNum]);
+      setQuotes(data[0]);
     });
   };
 
